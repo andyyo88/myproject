@@ -1,0 +1,134 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Site.Master.cs" caret="326" fromTop="11" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Site.Master" caret="0" fromTop="0" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx" caret="1314" fromTop="9" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:Account/f:Web.config" caret="266" fromTop="13" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Web.config" caret="1260" fromTop="66" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:Account/f:Login.aspx" caret="0" fromTop="0" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:Function/f:Product.cs" caret="764" fromTop="16" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx.cs" caret="825" fromTop="7" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:App_Data/f:connection.cs" caret="1726" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:App_Data/f:connection.cs" caret="1947" fromTop="18" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx.cs" caret="471" fromTop="15" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:App_Data/f:connection.cs" caret="955" fromTop="7" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:Function/f:Product.cs" caret="100" fromTop="4" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:App_Data/f:connection.cs" caret="199" fromTop="10" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:Function/f:Product.cs" caret="384" fromTop="14" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx.cs" caret="362" fromTop="7" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Web.config" caret="0" fromTop="20" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Web.config" caret="4861" fromTop="66" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx.cs" caret="1128" fromTop="11" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:App_Data/f:connection.cs" caret="1252" fromTop="11" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:App_Data/f:connection.cs" caret="107" fromTop="4" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx" caret="1430" fromTop="9" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:App_Data/f:connection.cs" caret="1858" fromTop="16" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:Function/f:Product.cs" caret="864" fromTop="18" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:Function/f:Product.cs" caret="850" fromTop="16" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx.cs" caret="176" fromTop="7" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:Function/f:Product.cs" caret="677" fromTop="10" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx.cs" caret="1105" fromTop="9" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/d:App_Data/f:connection.cs" caret="1674" fromTop="12" />
+      <File id="420AFBFC-B4C9-4E14-9E99-4F2F6B8B4FB9/f:Default.aspx.cs" caret="604" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="connection`0" priority="63" />
+      <Item value="AspNetHostingPermission`0" priority="31" />
+      <Item value="new" priority="95" />
+      <Item value="connection" priority="28" />
+      <Item value="test" priority="159" />
+      <Item value="LockTypeEnum`0" priority="26" />
+      <Item value="conn" priority="26" />
+      <Item value="CursorTypeEnum`0" priority="26" />
+      <Item value="Product`0" priority="31" />
+      <Item value="Product" priority="55" />
+      <Item value="product" priority="159" />
+      <Item value="Connection`0" priority="22" />
+      <Item value="gvProduct" priority="63" />
+      <Item value="DataTable`0" priority="99" />
+      <Item value="Data" priority="45" />
+      <Item value="OleDb" priority="45" />
+      <Item value="OleDbDataAdapter`0" priority="22" />
+      <Item value="System" priority="26" />
+      <Item value="OleDbDataAdapter" priority="45" />
+      <Item value="var" priority="63" />
+      <Item value="DataTable" priority="29" />
+      <Item value="dt2" priority="63" />
+      <Item value="Label1" priority="31" />
+      <Item value="ReadStringResource`0" priority="31" />
+      <Item value="Recordset`0" priority="26" />
+      <Item value="test3" priority="31" />
+      <Item value="IEditableTextControl`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OnlineShop.connection">
+      <Item value="CloseConnection`0" priority="26" />
+      <Item value="OpenConnection`0" priority="27" />
+      <Item value="insertTest`0" priority="26" />
+      <Item value="cn" priority="22" />
+      <Item value="ExecuteQuery`0" priority="22" />
+      <Item value="ExecuteScalar`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ADODB.Recordset">
+      <Item value="Open`0" priority="22" />
+      <Item value="Fields" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ADODB.CursorTypeEnum">
+      <Item value="adOpenDynamic" priority="45" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ADODB.LockTypeEnum">
+      <Item value="adLockOptimistic" priority="45" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.Web.ASPxGridView.ASPxGridView">
+      <Item value="DataSource" priority="27" />
+      <Item value="DataBind`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbDataAdapter">
+      <Item value="Fill`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OnlineShop.Product">
+      <Item value="selectTest`0" priority="27" />
+      <Item value="selectTest2`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="RowChanged" priority="26" />
+      <Item value="Columns" priority="26" />
+      <Item value="Rows" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="ToString`0" priority="26" />
+      <Item value="ItemArray" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ADODB.Field">
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

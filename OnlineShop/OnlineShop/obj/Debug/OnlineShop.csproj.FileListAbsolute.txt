@@ -1,0 +1,6 @@
+c:\users\andy yo\documents\visual studio 2010\Projects\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+c:\users\andy yo\documents\visual studio 2010\Projects\OnlineShop\OnlineShop\bin\OnlineShop.dll
+c:\users\andy yo\documents\visual studio 2010\Projects\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+c:\users\andy yo\documents\visual studio 2010\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+c:\users\andy yo\documents\visual studio 2010\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+c:\users\andy yo\documents\visual studio 2010\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll.licenses
