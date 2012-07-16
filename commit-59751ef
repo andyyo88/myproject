@@ -1,0 +1,15 @@
+commit 59751ef59ccaaa56b1d23645720675898ec6a7b7
+Author: Rudi Setiawan <rid_mls@yahoo.com>
+Date:   Tue Jul 10 23:18:07 2012 +0700
+
+    Signed-off-by: Rudi Setiawan <rid_mls@yahoo.com>
+    asd
+
+diff --git a/test rudi.txt b/test rudi.txt
+new file mode 100644
+index 0000000..7c5759f
+--- /dev/null
++++ b/test rudi.txt	
+@@ -0,0 +1 @@
++rdirui
+\ No newline at end of file
