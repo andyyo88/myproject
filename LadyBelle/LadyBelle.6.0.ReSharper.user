@@ -1,15 +1,6 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:css/f:style.css" caret="51901" fromTop="2246" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Admin.Master.cs" caret="492" fromTop="19" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:js/f:script.js" caret="19544" fromTop="13" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Province.aspx.cs" caret="3526" fromTop="17" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ShippingVendor.aspx.cs" caret="3509" fromTop="6" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ShippingVendor.aspx" caret="6036" fromTop="14" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:ShippingVendor.cs" caret="761" fromTop="5" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:District.aspx" caret="7232" fromTop="15" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:District.cs" caret="587" fromTop="15" />
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:ShippingCost.cs" caret="538" fromTop="7" />
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:District.aspx.cs" caret="4726" fromTop="5" />
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ShippingCost.aspx.cs" caret="3397" fromTop="0" />
@@ -19,50 +10,59 @@
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:User.ascx.cs" caret="3082" fromTop="8" />
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx" caret="3367" fromTop="11" />
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="624" fromTop="9" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Admin.Master" caret="873" fromTop="13" />
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Login.aspx" caret="0" fromTop="0" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:User.cs" caret="1083" fromTop="10" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Province.cs" caret="929" fromTop="12" />
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:UserLevel.cs" caret="355" fromTop="11" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:City.aspx.cs" caret="1162" fromTop="7" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:City.aspx" caret="5808" fromTop="11" />
       <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Login.aspx.cs" caret="1182" fromTop="11" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:connection.cs" caret="234" fromTop="10" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="4539" fromTop="15" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Category.cs" caret="1017" fromTop="20" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:City.cs" caret="1333" fromTop="9" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Web.config" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:connection.cs" caret="1211" fromTop="13" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Category.cs" caret="955" fromTop="10" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:AdminEditProductDetails.aspx.cs" caret="560" fromTop="9" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Category.aspx.cs" caret="3428" fromTop="5" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Category.aspx" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:User.cs" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:AdminAboutUs.aspx.cs" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:City.aspx" caret="749" fromTop="14" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Admin.Master" caret="5059" fromTop="10" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:City.cs" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Product.cs" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Province.cs" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Client.cs" caret="573" fromTop="9" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:City.aspx.cs" caret="2491" fromTop="16" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="2056" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="2174" fromTop="15" />
     </RecentFiles>
     <RecentEdits>
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="1214" fromTop="12" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="1202" fromTop="12" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:UserLevel.cs" caret="468" fromTop="18" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:UserLevel.cs" caret="355" fromTop="11" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="449" fromTop="11" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="1125" fromTop="14" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:User.cs" caret="647" fromTop="7" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:User.cs" caret="1682" fromTop="11" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="2801" fromTop="10" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="4434" fromTop="8" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:User.cs" caret="973" fromTop="10" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:User.ascx.cs" caret="3082" fromTop="8" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="4086" fromTop="14" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="1035" fromTop="16" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="1155" fromTop="10" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="906" fromTop="11" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="1373" fromTop="20" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="947" fromTop="6" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="624" fromTop="6" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="699" fromTop="10" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="615" fromTop="3" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Home.aspx" caret="391" fromTop="4" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Login.aspx.cs" caret="1179" fromTop="11" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:ManageUser.aspx.cs" caret="4548" fromTop="15" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Category.cs" caret="1238" fromTop="20" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Category.cs" caret="191" fromTop="5" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Category.cs" caret="353" fromTop="10" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Category.cs" caret="459" fromTop="7" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Category.cs" caret="702" fromTop="11" />
-      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Category.cs" caret="1017" fromTop="14" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="10645" fromTop="14" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Admin.Master" caret="5063" fromTop="10" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="0" fromTop="0" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="1263" fromTop="9" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="2420" fromTop="9" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="2516" fromTop="14" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="2610" fromTop="9" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="13380" fromTop="12" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="10674" fromTop="5" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="11024" fromTop="8" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="11834" fromTop="15" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="7515" fromTop="19" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="7515" fromTop="9" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="8087" fromTop="14" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="8337" fromTop="9" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="8484" fromTop="11" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="9696" fromTop="19" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="10267" fromTop="14" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="11024" fromTop="14" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx" caret="11757" fromTop="17" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="169" fromTop="6" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:City.aspx.cs" caret="319" fromTop="4" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="841" fromTop="11" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="1153" fromTop="19" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="648" fromTop="11" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="769" fromTop="11" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="2326" fromTop="18" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Client.cs" caret="667" fromTop="18" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/d:Function/f:Client.cs" caret="573" fromTop="12" />
+      <File id="68399FB2-6DA8-4A10-97A2-A03D8E43E266/f:Customer.aspx.cs" caret="2174" fromTop="15" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
@@ -100,14 +100,15 @@
       <Item value="ShippingVendor.aspx" priority="7" />
       <Item value="District.aspx" priority="6" />
       <Item value="ShippingCost.aspx" priority="7" />
+      <Item value="Customer.aspx" priority="6" />
     </ItemStatistics>
     <ItemStatistics item="CSharpCodeCompletionContext">
-      <Item value="new" priority="63" />
-      <Item value="connection" priority="28" />
+      <Item value="new" priority="127" />
+      <Item value="connection" priority="58" />
       <Item value="dgList" priority="53" />
       <Item value="txtUserID" priority="262" />
       <Item value="txtUserName" priority="149" />
-      <Item value="string" priority="127" />
+      <Item value="string" priority="287" />
       <Item value="userName" priority="31" />
       <Item value="password" priority="58" />
       <Item value="Response" priority="58" />
@@ -115,7 +116,7 @@
       <Item value="UserFunction" priority="29" />
       <Item value="private" priority="127" />
       <Item value="void" priority="63" />
-      <Item value="username" priority="95" />
+      <Item value="username" priority="127" />
       <Item value="GetDataByUsername`0" priority="95" />
       <Item value="id" priority="31" />
       <Item value="txtPassword" priority="31" />
@@ -143,7 +144,7 @@
       <Item value="shippingVendor" priority="159" />
       <Item value="txtVendorID" priority="191" />
       <Item value="txtVendorName" priority="127" />
-      <Item value="int" priority="351" />
+      <Item value="int" priority="383" />
       <Item value="decimal" priority="31" />
       <Item value="shippingCostName" priority="63" />
       <Item value="vendorID" priority="31" />
@@ -160,30 +161,57 @@
       <Item value="ShippingCostFunction`0" priority="31" />
       <Item value="ShippingCostFunction" priority="29" />
       <Item value="shippingCost" priority="127" />
-      <Item value="cityID" priority="31" />
+      <Item value="cityID" priority="63" />
       <Item value="cmbDistrict" priority="127" />
       <Item value="txtShippingCostID" priority="191" />
       <Item value="txtPrice" priority="95" />
       <Item value="cmbShippingVendor" priority="122" />
       <Item value="BindDistrict`0" priority="63" />
-      <Item value="Convert`0" priority="63" />
+      <Item value="Convert`0" priority="95" />
       <Item value="cmbUserLevel" priority="95" />
       <Item value="UserLevelFunction`0" priority="31" />
       <Item value="userLevel" priority="191" />
       <Item value="public" priority="31" />
-      <Item value="connection`0" priority="31" />
-      <Item value="var" priority="31" />
+      <Item value="connection`0" priority="63" />
+      <Item value="var" priority="63" />
       <Item value="cn" priority="31" />
       <Item value="rs" priority="31" />
       <Item value="return" priority="31" />
-      <Item value="con" priority="31" />
+      <Item value="con" priority="95" />
       <Item value="if" priority="31" />
-      <Item value="else" priority="31" />
-      <Item value="bool" priority="63" />
+      <Item value="else" priority="63" />
+      <Item value="bool" priority="127" />
       <Item value="categoryName" priority="63" />
-      <Item value="parentID" priority="63" />
+      <Item value="parentID" priority="127" />
       <Item value="categoryType" priority="31" />
       <Item value="visible" priority="31" />
+      <Item value="CategoryFunction`0" priority="63" />
+      <Item value="cmbParent" priority="63" />
+      <Item value="category" priority="159" />
+      <Item value="DateTime`0" priority="63" />
+      <Item value="clName" priority="31" />
+      <Item value="email" priority="31" />
+      <Item value="address" priority="31" />
+      <Item value="ProvinceID" priority="31" />
+      <Item value="postalCode" priority="31" />
+      <Item value="phone" priority="31" />
+      <Item value="active" priority="31" />
+      <Item value="lastUpdate" priority="31" />
+      <Item value="LadyBelle" priority="25" />
+      <Item value="Function" priority="26" />
+      <Item value="ClientFunction`0" priority="31" />
+      <Item value="ClientFunction" priority="28" />
+      <Item value="customer" priority="63" />
+      <Item value="txtCustID" priority="63" />
+      <Item value="txtUsername" priority="31" />
+      <Item value="txtCustName" priority="31" />
+      <Item value="cust" priority="63" />
+      <Item value="txtEmail" priority="31" />
+      <Item value="txtAddress" priority="31" />
+      <Item value="txtCity" priority="31" />
+      <Item value="txtProvince" priority="31" />
+      <Item value="txtPostalCode" priority="31" />
+      <Item value="txtPhone" priority="31" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:LadyBelle.Function.User">
       <Item value="GetData`0" priority="22" />
@@ -193,7 +221,7 @@
       <Item value="DataBind`0" priority="22" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
-      <Item value="Text" priority="149" />
+      <Item value="Text" priority="366" />
       <Item value="Enabled" priority="81" />
       <Item value="ReadOnly" priority="26" />
     </ItemStatistics>
@@ -216,26 +244,31 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
       <Item value="SelectedIndex" priority="80" />
-      <Item value="SelectedValue" priority="243" />
+      <Item value="SelectedValue" priority="271" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Convert">
-      <Item value="ToInt32`0" priority="80" />
+      <Item value="ToInt32`0" priority="107" />
       <Item value="ToDecimal`0" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:LadyBelle.Function.DistrictFunction">
       <Item value="GetDataByCity`0" priority="27" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:ADODB.Recordset">
-      <Item value="Fields" priority="26" />
+      <Item value="Fields" priority="53" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:ADODB.Field">
-      <Item value="Value" priority="26" />
+      <Item value="Value" priority="53" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Object">
-      <Item value="ToString`0" priority="26" />
+      <Item value="ToString`0" priority="53" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:LadyBelle.Function.connection">
-      <Item value="cn" priority="26" />
+      <Item value="cn" priority="53" />
+      <Item value="OpenConnection`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LadyBelle.Function.ClientFunction">
+      <Item value="GetData`0" priority="26" />
+      <Item value="GetDataByID`0" priority="27" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>

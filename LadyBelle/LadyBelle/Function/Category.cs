@@ -17,21 +17,36 @@ namespace LadyBelle.Function
             return dt;
         }
 
-        public void SaveData(Connection cn, string categoryName, int parentID,bool categoryType, bool visible)
+        public DataTable GetDataByParentID(Connection cn, int parentID)
         {
-            string sql = "ad_InsertCategory '" + categoryName + "'," + parentID + "," + categoryType + "," + visible;
+            string sql = "ad_GetCategoryByParentID " + parentID;
+            System.Data.DataTable dt = conn.ExecuteScalar(sql, cn);
+            return dt;
+        }
+
+        public Recordset GetDataByID(Connection cn, int id)
+        {
+            string sql = "ad_GetCategoryByID " + id;
+            Recordset rs = conn.Execute(sql, cn);
+
+            return rs;
+        }
+
+        public void SaveData(Connection cn, string categoryName, int categoryType, int parentID)
+        {
+            string sql = "ad_InsertCategory '" + categoryName + "'," + categoryType + "," + parentID;
             conn.ExecuteQuery(sql, cn);
         }
 
-        public void UpdateData(Connection cn, int id, string categoryName, int parentID, bool categoryType, bool visible)
+        public void UpdateData(Connection cn, int id, string categoryName,  int categoryType, int parentID)
         {
-            string sql = "ad_UpdateCity " + id + ",'" + categoryName + "'," + parentID + "," + categoryType + "," + visible;
+            string sql = "ad_UpdateCategory " + id + ",'" + categoryName + "'," + categoryType + "," + parentID;
             conn.ExecuteQuery(sql, cn);
         }
 
         public void DeleteData(Connection cn, int id)
         {
-            string sql = "ad_DeleteCity " + id;
+            string sql = "ad_DeleteCategory " + id;
             conn.ExecuteQuery(sql, cn);
         }
 

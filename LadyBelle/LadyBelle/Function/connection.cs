@@ -14,7 +14,7 @@ namespace LadyBelle.Function
         public void OpenConnection()
         {
             string DatabaseName = "OnlineShop";
-            string ServerName = "ELLY\\SQLEXPRESS";
+            string ServerName = ".";
             string ServerPassword = "adminsa";
             string ServerUsername = "sa";
             bool WindowsAuthentication = false;

@@ -23,3 +23,9 @@ C:\Users\elly.NISPS\Documents\LadyBelle\LadyBelle\LadyBelle\bin\LadyBelle.dll
 C:\Users\elly.NISPS\Documents\LadyBelle\LadyBelle\LadyBelle\bin\LadyBelle.pdb
 C:\Users\elly.NISPS\Documents\LadyBelle\LadyBelle\LadyBelle\bin\FreeTextBox.dll
 C:\Users\elly.NISPS\Documents\LadyBelle\LadyBelle\LadyBelle\obj\Debug\LadyBelle.pdb
+E:\MyProject\myproject\LadyBelle\LadyBelle\bin\LadyBelle.dll
+E:\MyProject\myproject\LadyBelle\LadyBelle\bin\LadyBelle.pdb
+E:\MyProject\myproject\LadyBelle\LadyBelle\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\myproject\LadyBelle\LadyBelle\obj\Debug\LadyBelle.dll.licenses
+E:\MyProject\myproject\LadyBelle\LadyBelle\obj\Debug\LadyBelle.dll
+E:\MyProject\myproject\LadyBelle\LadyBelle\obj\Debug\LadyBelle.pdb

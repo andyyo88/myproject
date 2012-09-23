@@ -951,7 +951,8 @@
       <DependentUpon>Web.config</DependentUpon>
     </Content>
     <Content Include="User.aspx" />
-    <Content Include="WebForm2.aspx" />
+    <Content Include="Category.aspx" />
+    <Content Include="Customer.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Admin.Master.cs">
@@ -1026,6 +1027,7 @@
     </Compile>
     <Compile Include="Function\Category.cs" />
     <Compile Include="Function\City.cs" />
+    <Compile Include="Function\Client.cs" />
     <Compile Include="Function\connection.cs" />
     <Compile Include="Function\District.cs" />
     <Compile Include="Function\Product.cs" />
@@ -1100,12 +1102,19 @@
     <Compile Include="User.aspx.designer.cs">
       <DependentUpon>User.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm2.aspx.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="Category.aspx.cs">
+      <DependentUpon>Category.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm2.aspx.designer.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="Category.aspx.designer.cs">
+      <DependentUpon>Category.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.aspx.cs">
+      <DependentUpon>Customer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Customer.aspx.designer.cs">
+      <DependentUpon>Customer.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

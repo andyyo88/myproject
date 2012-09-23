@@ -125,11 +125,11 @@
 				<li class="i_user"><a href="ManageUser.aspx"><span>User</span></a></li>
 				<li class="i_shopping_cart_3"><a href="AdminProduct.aspx"><span>Product</span></a></li>
                 <li class="i_shopping_cart_3"><a href="AdminStockList.aspx"><span>Stock</span></a></li>
-				<li class="i_users"><a href="gallery.html"><span>Customer</span></a></li>
+				<li class="i_users"><a href="Customer.aspx"><span>Customer</span></a></li>
 				<li class="i_flag_2"><a href="Province.aspx"><span>Province</span></a></li>
 				<li class="i_house_2"><a href="City.aspx"><span>City</span></a></li>
                 <li class="i_house"><a href="District.aspx"><span>District</span></a></li>
-				<li class="i_table"><a href="datatable.html"><span>Category</span></a></li>
+				<li class="i_table"><a href="Category.aspx"><span>Category</span></a></li>
 				<li class="i_truck"><a href="ShippingVendor.aspx"><span>Shipping Vendor</span></a></li>
 				<li class="i_calculator"><a href="ShippingCost.aspx"><span>Shipping Cost</span></a></li>
 			</ul>
